@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://weimenglin.github.io/my-website/"
 title = "我的工作部落格"
 theme = "coder"
 languageCode = "zh-tw"
