@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的工作部落格</title>
-    <link>http://localhost:1313/</link>
+    <link>https://weimenglin.github.io/my-website/</link>
     <description>Recent content on 我的工作部落格</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://weimenglin.github.io/my-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://weimenglin.github.io/my-website/posts/hello-world/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://weimenglin.github.io/my-website/posts/hello-world/</guid>
       <description>&lt;p&gt;這是我的第一篇部落格文章，用來記錄我工作的心得與學習。&lt;/p&gt;</description>
     </item>
     <item>
       <title>關於我</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://weimenglin.github.io/my-website/about/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://weimenglin.github.io/my-website/about/</guid>
       <description>&lt;p&gt;生物資訊經理，這個網站用來記錄我的工作歷程與學習心得。&lt;/p&gt;</description>
     </item>
   </channel>
